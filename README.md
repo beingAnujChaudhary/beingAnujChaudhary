@@ -13,6 +13,7 @@ A lifelong learner currently immersed in the fascinating worlds of Data Science,
 
 With experience in technical support and currently as a Service Advisor at British Airways (Call BA), I've honed my analytical skills in real-world scenarios, including fraud detection, chargeback processing, and enhancing customer experiences. My passion lies in leveraging data to solve complex problems and derive actionable insights.
 
+* 🎓 **Current Education:** BS in Data Science and Applications, IIT Madras (Ongoing). 
 * 🧠 **Background:** BA in Psychology (IGNOU), providing a strong understanding of human behavior and cognitive processes.
 * 🛠️ **Current Role:** Service Advisor at Call BA - Subsidiary of British Airways, focusing on investigating fraudulent transactions, chargeback processing, and fare regulation adherence using Amadeus.
 * 💡 **Previous Role:** Senior Tech Specialist at Ienergizer IT Services, where I enhanced user experience for a global gaming community, ensured data privacy (GDPR, CISPA, COPPA, LGPD), and contributed to financial fraud prevention.
