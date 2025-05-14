@@ -22,16 +22,18 @@ With experience in technical support and currently as a Service Advisor at Briti
 
 ## 🌱 I’m Currently Learning & Working On
 
-Following "The Ultimate Learning Path to Data Science & ML Engineering on GCP," with a strong focus on practical application and portfolio building.
+Following "The Ultimate Learning Path to Data Science & ML Engineering on GCP," with a strong focus on practical application and portfolio building. My current educational pursuits include:
 
 * 🎓 **IBM Data Science Professional Certificate (Coursera):** Actively working through modules covering the entire data science lifecycle. Currently tackling projects like the **SpaceX Launch Success Prediction Capstone**.
-    * *Skills used/learned:* Python, Jupyter Notebooks, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (basics), SQL, Data Collection (Web Scraping, APIs), Data Wrangling, EDA, Interactive Visualizations (Folium, Plotly Dash), Predictive Modeling.
+    * *Key areas:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (basics), SQL, Data Collection (Web Scraping, APIs), Data Wrangling, EDA, Interactive Visualizations (Folium, Plotly Dash), Predictive Modeling.
+* 📚 **Applied Data Science with Python Specialization by University of Michigan (Coursera):** Deepening my Python skills for data science, focusing on advanced library usage (Pandas, Matplotlib, Seaborn, Scikit-learn in-depth) and exploring areas like Natural Language Processing (NLTK) and Network Analysis (NetworkX).
+* 🤖 **Machine Learning Specialization by University of Washington (Coursera):** Building a strong theoretical understanding of core machine learning algorithms (Regression, Classification, Clustering) and their practical applications through case studies.
 * 🚀 **Exploring:**
-    * Advanced Machine Learning techniques and Deep Learning fundamentals.
-    * Cloud technologies, with an eye towards Google Cloud Platform (GCP) for Data Engineering and MLOps.
-    * Generative AI concepts and applications.
+    * Advanced Machine Learning techniques and preparing for Deep Learning fundamentals.
+    * Cloud technologies, with an initial focus on understanding how ML concepts translate to cloud environments like Google Cloud Platform (GCP).
+
 * 💻 **Key Projects in Progress/Completed (from IBM Cert & Learning Path):**
-    * **SpaceX Falcon 9 Launch Analysis & Prediction:** (This is your capstone - highlight aspects)
+    * **SpaceX Falcon 9 Launch Analysis & Prediction:** 
         * Collected launch data via web scraping (Wikipedia) and SpaceX API.
         * Performed extensive data wrangling and feature engineering.
         * Conducted EDA using SQL and Python (Matplotlib, Seaborn).
@@ -65,8 +67,6 @@ Following "The Ultimate Learning Path to Data Science & ML Engineering on GCP," 
 * **Google Advanced Data Analytics Professional Certificate**
 * **Microsoft Power BI Data Analyst Professional Certificate**
 * **Zendesk Customer Service Professional Certificate**
-
-*(Based on your learning path, you can add a section like "Future Certifications I'm Targeting" e.g., GCP ML Engineer, GCP Data Engineer, IBM ML Professional Cert, Deep Learning Specialization etc.)*
 
 ---
 
