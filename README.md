@@ -100,7 +100,7 @@ Following "The Ultimate Learning Path to Data Science & ML Engineering on GCP," 
 
 * **Email:** BeingAnujChaudhary@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/beinganujchaudhary/
-* ---
+---
 
 ## ⚡ Fun fact
-* I believe understanding human psychology is a superpower in designing effective and ethical technology!
+* I'm exploring how psychological principles of decision-making and bias can inform the development of fairer and more interpretable AI models!
