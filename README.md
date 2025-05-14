@@ -50,7 +50,7 @@ Following "The Ultimate Learning Path to Data Science & ML Engineering on GCP," 
 * **Data Visualization:** Matplotlib, Seaborn, Plotly, Folium
 * **Machine Learning:** Scikit-learn (Regression, Classification, Clustering - basics and growing)
 * **Web Development (Learning/Exploring):** HTML (basics for Dash), Dash for web analytic applications
-* **Tools & Platforms:** Jupyter Notebooks, IBM Watson Studio (as part of IBM cert), GitHub, Google Workspace, Microsoft Excel
+* **Tools & Platforms:** Jupyter Notebooks (as part of IBM cert), GitHub, Google Workspace, Microsoft Excel
 * **BI Tools:** Power BI
 * **Domain Specific:** Amadeus (from BA role), Zendesk (from certification)
 * **Soft Skills & Others:** Technical Support, Customer Experience Enhancement, Fraud Prevention, Financial Analytics, Data Privacy Regulations (GDPR, CISPA, COPPA, LGPD), Problem Solving, Analytical Thinking, Game Moderation.
@@ -59,11 +59,12 @@ Following "The Ultimate Learning Path to Data Science & ML Engineering on GCP," 
 
 ## 🏆 Certifications
 
-* **IBM Data Science Professional Certificate** (Coursera - In Progress / Nearing Completion)
+* **Applied Data Science with Python** (Coursera - In Progress / Nearing Completion)
+* **IBM Data Science Professional Certificate** 
 * **Google Data Analytics Professional Certificate**
 * **Google Advanced Data Analytics Professional Certificate**
 * **Microsoft Power BI Data Analyst Professional Certificate**
-* Zendesk Customer Service Professional Certificate
+* **Zendesk Customer Service Professional Certificate**
 
 *(Based on your learning path, you can add a section like "Future Certifications I'm Targeting" e.g., GCP ML Engineer, GCP Data Engineer, IBM ML Professional Cert, Deep Learning Specialization etc.)*
 
