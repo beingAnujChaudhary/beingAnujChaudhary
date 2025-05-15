@@ -3,9 +3,10 @@
 <p align="left">
   <a href="mailto:BeingAnujChaudhary@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/beinganujchaudhary/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/beinganujchaudhary"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   </p>
 
-A lifelong learner currently immersed in the fascinating worlds of Data Science, Machine Learning, and Web Development. I bring a unique perspective by blending a background in Psychology with technical expertise to create data-driven solutions that are both efficient and human-centric.
+A lifelong learner currently immersed in the fascinating worlds of Data Science and Machine Learning. I bring a unique perspective by blending a background in Psychology with technical expertise to create data-driven solutions that are both efficient and human-centric.
 
 ---
 
