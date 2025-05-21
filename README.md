@@ -103,7 +103,7 @@ Following "The Ultimate Learning Path to Data Science & ML Engineering on GCP," 
 * **LinkedIn:** https://www.linkedin.com/in/beinganujchaudhary/
 ---
 
-## ⚡ Fun fact:  🌌 AI & The Cosmos:- Decoding Reality's Deepest Mysteries
+## ⚡ Fun fact:  🌌 AI & The Cosmos (Decoding Reality's Deepest Mysteries)
 Can machines imagine what humans cannot? Exploring where AI meets the universe's greatest puzzles:
 • 🔭 Cosmic Codebreaker - Will AI reveal dark matter's secrets?
 • 🌀 Quantum Dreamer - Can neural nets simulate alternate realities?
