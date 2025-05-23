@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>beingAnujChaudhary - Portfolio</title>
-    <meta name="description" content="Portfolio of Anuj Chaudhary, pursuing BS in Data Science at IIT Madras. Welcome to my creative space.">
+    <title>Anuj Chaudhary - Data Science & AI Portfolio | IIT Madras Student</title>
+    <meta name="description" content="Welcome to the portfolio of Anuj Chaudhary, a Data Science and Applications student at IIT Madras. Explore projects in AI, Machine Learning, and innovative tech solutions.">
     <link rel="shortcut icon" href="./logo.png" type="image/png">
     <link rel="preload" href="https://cdn.tailwindcss.com" as="script">
     <link rel="preload" href="./NeueHaasDisplayMediu.ttf" as="font" type="font/ttf" crossorigin>
@@ -29,41 +29,37 @@
         <button id="close-menu" aria-label="Close menu" class="absolute top-5 right-5 sm:top-6 sm:right-6 text-3xl sm:text-4xl font-semibold text-neutral-700 hover:text-[#FE320A] focus:outline-none focus:text-[#FE320A] transition-colors z-[2001]">
             &times;
         </button>
-        <div class="mobile-menu-content">
-            <span id="mobile-menu-title" class="sr-only">Navigation Menu</span>
-            <a href="https://beinganujchaudhary.web.app/" class="mobile-menu-link active">Home</a>
-            <a href="./resume.html" class="mobile-menu-link">Resume</a>
-            <a href="./projects.html" class="mobile-menu-link">Projects</a>
-            <a href="./achievements.html" class="mobile-menu-link">Achievements</a>
-            <a href="./contact.html" class="mobile-menu-link">Contact</a>
-        </div>
+        <nav aria-label="Mobile navigation">
+            <ul class="mobile-menu-content" role="menubar">
+                <li role="none"><span id="mobile-menu-title" class="sr-only">Navigation Menu</span></li>
+                <li role="none"><a href="https://beinganujchaudhary.web.app/" class="mobile-menu-link active" role="menuitem">Home</a></li>
+                <li role="none"><a href="./resume.html" class="mobile-menu-link" role="menuitem">Resume</a></li>
+                <li role="none"><a href="./projects.html" class="mobile-menu-link" role="menuitem">Projects</a></li>
+                <li role="none"><a href="./achievements.html" class="mobile-menu-link" role="menuitem">Achievements</a></li>
+                <li role="none"><a href="./contact.html" class="mobile-menu-link" role="menuitem">Contact</a></li>
+            </ul>
+        </nav>
     </div>
 
     <main id="main" class="relative">
 
-        <section id="hero" class="min-h-screen w-full relative px-4 md:px-8 pt-4 md:pt-8" data-scroll-section>
+        <section id="hero" class="min-h-screen w-full relative px-4 md:px-8 pt-4 md:pt-8" data-scroll-section role="banner">
             <header class="w-full">
-                <nav class="w-full flex items-center justify-between py-4 md:py-6 relative z-[100]">
+                <nav class="w-full flex items-center justify-between py-4 md:py-6 relative z-[100]" aria-label="Main navigation">
                     <a href="https://beinganujchaudhary.web.app/" aria-label="Home page" class="focus:outline-none">
                         <div class="logo-ring w-20 h-20 md:w-28 md:h-28"> <img src="./logo.png" id="logo" alt="Anuj Chaudhary Logo"
                                 onerror="this.onerror=null; this.src='./logo.png?text=Logo';"
                                 class="logo-image"> </div>
                     </a>
 
-                    <div id="desktop-nav" class="hidden md:flex items-center gap-2 lg:gap-4">
-                        <a href="resume.html" class="nav-link">
-                            <h4 class="relative z-10 text-sm lg:text-base">Resume</h4>
-                        </a>
-                        <a href="projects.html" class="nav-link">
-                            <h4 class="relative z-10 text-sm lg:text-base">Projects</h4>
-                        </a>
-                        <a href="achievements.html" class="nav-link">
-                            <h4 class="relative z-10 text-sm lg:text-base">Achievements</h4>
-                        </a>
-                        <a href="contact.html" class="nav-link">
-                            <h4 class="relative z-10 text-sm lg:text-base">Contact</h4>
-                        </a>
-                    </div>
+                    <nav id="desktop-nav" class="hidden md:flex items-center gap-2 lg:gap-4" aria-label="Desktop navigation">
+                        <ul>
+                            <li class="nav-link-item"><a href="resume.html" class="nav-link relative z-10 text-sm lg:text-base">Resume</a></li>
+                            <li class="nav-link-item"><a href="projects.html" class="nav-link relative z-10 text-sm lg:text-base">Projects</a></li>
+                            <li class="nav-link-item"><a href="achievements.html" class="nav-link relative z-10 text-sm lg:text-base">Achievements</a></li>
+                            <li class="nav-link-item"><a href="contact.html" class="nav-link relative z-10 text-sm lg:text-base">Contact</a></li>
+                        </ul>
+                    </nav>
 
                     <button id="menu-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="mobile-menu"
                         class="md:hidden px-4 py-2 border border-neutral-400 rounded-full text-sm z-[101] focus:outline-none">
@@ -97,6 +93,7 @@
                     src="./beingAnujChaudhary.mp4"
                     poster="https://placehold.co/1600x900/EFEAE3/333333?text=Video+Loading..."
                     aria-label="Background video showcasing creative work or abstract visuals">
+                    <source src="./beingAnujChaudhary.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
@@ -126,6 +123,10 @@
                 <div class="md:w-2/5 lg:w-1/4 mt-8 md:mt-0">
                     <img
                         src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"
+                        srcset="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80 600w,
+                                https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80 1000w,
+                                https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1600&q=80 1600w"
+                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" 
                         alt="Anuj working on a project"
                         class="w-full rounded-xl shadow-lg aspect-square object-cover"
                         loading="lazy" onerror="this.onerror=null; this.src='https://placehold.co/600x600/EFEAE3/1a1a1a?text=Image+Not+Found';">
@@ -159,7 +160,7 @@
                             Exploring data, building models, creating impact.
                         </p>
                     </div>
-                    <nav class="flex flex-wrap justify-center md:justify-end items-center gap-x-4 sm:gap-x-6 gap-y-2" aria-label="Footer navigation">
+                    <nav class="flex flex-wrap justify-center md:justify-end items-center gap-x-4 sm:gap-x-6 gap-y-2" aria-label="Social media links">
                         <a href="mailto:beinganujchaudhary@gmail.com" class="hover:text-orange-400 transition-colors focus:outline-none focus:underline">Gmail</a>
                         <a href="tel:+918130105894" class="hover:text-orange-400 transition-colors focus:outline-none focus:underline">Phone</a>
                         <a href="https://www.linkedin.com/in/beinganujchaudhary/" target="_blank" rel="noopener noreferrer" class="hover:text-orange-400 transition-colors focus:outline-none focus:underline">LinkedIn</a>
@@ -168,7 +169,7 @@
                 </div>
                 <div class="border-t border-gray-700 pt-6 md:pt-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-gray-500">
                     <p class="order-2 sm:order-1 text-center sm:text-left">&copy; <time id="current-year">2024</time> Anuj Chaudhary. All Rights Reserved.</p>
-                    <nav class="order-1 sm:order-2" aria-label="Legal links">
+                    <nav class="order-1 sm:order-2" aria-label="Footer legal links">
                         <ul class="flex flex-wrap justify-center sm:justify-end gap-x-3 sm:gap-x-4 gap-y-2">
                             <li><a href="privacy-policy.html" class="hover:text-orange-400 transition-colors focus:outline-none focus:underline">Privacy Policy</a></li>
                             <li><a href="terms-of-service.html" class="hover:text-orange-400 transition-colors focus:outline-none focus:underline">Terms of Service</a></li>

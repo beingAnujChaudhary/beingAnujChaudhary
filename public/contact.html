@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact - beingAnujChaudhary</title>
-    <meta name="description" content="Get in touch with Anuj Chaudhary. Let's connect and discuss ideas or projects.">
+    <title>Contact Anuj Chaudhary - Data Science & AI Projects | IIT Madras</title>
+    <meta name="description" content="Contact Anuj Chaudhary, IIT Madras Data Science student, to discuss collaborations, projects in AI/ML, or freelance opportunities.">
     <link rel="shortcut icon" href="./logo.png" type="image/png">
 
     <link rel="preload" href="https://cdn.tailwindcss.com" as="script">
@@ -24,14 +24,16 @@
         <button id="close-menu" aria-label="Close menu" class="absolute top-5 right-5 sm:top-6 sm:right-6 text-3xl sm:text-4xl font-semibold text-neutral-700 hover:text-[#FE320A] focus:outline-none focus:text-[#FE320A] transition-colors z-[2001]">
             &times;
         </button>
-        <div class="mobile-menu-content">
-             <span id="mobile-menu-title-contact" class="sr-only">Navigation Menu</span>
-            <a href="https://beinganujchaudhary.web.app/" class="mobile-menu-link">Home</a>
-            <a href="./resume.html" class="mobile-menu-link">Resume</a>
-            <a href="./projects.html" class="mobile-menu-link">Projects</a>
-            <a href="./achievements.html" class="mobile-menu-link">Achievements</a>
-            <a href="./contact.html" class="mobile-menu-link active">Contact</a>
-        </div>
+        <nav aria-label="Mobile navigation">
+            <ul>
+                <li><span id="mobile-menu-title-contact" class="sr-only">Navigation Menu</span></li>
+                <li><a href="https://beinganujchaudhary.web.app/" class="mobile-menu-link">Home</a></li>
+                <li><a href="./resume.html" class="mobile-menu-link">Resume</a></li>
+                <li><a href="./projects.html" class="mobile-menu-link">Projects</a></li>
+                <li><a href="./achievements.html" class="mobile-menu-link">Achievements</a></li>
+                <li><a href="./contact.html" class="mobile-menu-link active">Contact</a></li>
+            </ul>
+        </nav>
     </div>
 
     <main id="main" class="relative">
@@ -44,13 +46,15 @@
                             class="logo-image">
                     </div>
                 </a>
-                <div id="desktop-nav" class="hidden md:flex items-center gap-2 lg:gap-4">
-                    <a href="https://beinganujchaudhary.web.app/" class="nav-link"><h4 class="relative z-10 text-sm lg:text-base">Home</h4></a>
-                    <a href="./resume.html" class="nav-link"><h4 class="relative z-10 text-sm lg:text-base">Resume</h4></a>
-                    <a href="./projects.html" class="nav-link"><h4 class="relative z-10 text-sm lg:text-base">Projects</h4></a>
-                    <a href="./achievements.html" class="nav-link"><h4 class="relative z-10 text-sm lg:text-base">Achievements</h4></a>
-                    <a href="./contact.html" class="nav-link active"><h4 class="relative z-10 text-sm lg:text-base">Contact</h4></a>
-                </div>
+                <nav id="desktop-nav" aria-label="Desktop navigation" class="hidden md:flex items-center gap-2 lg:gap-4">
+                    <ul>
+                        <li><a href="https://beinganujchaudhary.web.app/" class="nav-link relative z-10 text-sm lg:text-base">Home</a></li>
+                        <li><a href="./resume.html" class="nav-link relative z-10 text-sm lg:text-base">Resume</a></li>
+                        <li><a href="./projects.html" class="nav-link relative z-10 text-sm lg:text-base">Projects</a></li>
+                        <li><a href="./achievements.html" class="nav-link relative z-10 text-sm lg:text-base">Achievements</a></li>
+                        <li><a href="./contact.html" class="nav-link active relative z-10 text-sm lg:text-base">Contact</a></li>
+                    </ul>
+                </nav>
                 <button id="menu-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="mobile-menu"
                     class="md:hidden px-4 py-2 border border-neutral-400 rounded-full text-sm z-[101] focus:outline-none">
                     Menu
