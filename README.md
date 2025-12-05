@@ -63,12 +63,12 @@ Following "The Ultimate Learning Path to Data Science & ML Engineering on GCP," 
 
 ## 🏆 Certifications
 
-* **Applied Data Science with Python** (Coursera - In Progress / Nearing Completion)
-* **IBM Data Science Professional Certificate** 
-* **Google Data Analytics Professional Certificate**
-* **Google Advanced Data Analytics Professional Certificate**
-* **Microsoft Power BI Data Analyst Professional Certificate**
-* **Zendesk Customer Service Professional Certificate**
+* <a href="">**Applied Data Science with Python** </a>
+* <a href="">**IBM Data Science Professional Certificate**</a>
+* <a href="">**Google Data Analytics Professional Certificate**</a>
+* <a href="https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2FMV2EWVJ8XKGO&urlhash=41cD&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BME3yUNHpQdiIWlGE9ljUFQ%3D%3D">**Google Advanced Data Analytics Professional Certificate**</a>
+* <a href="">**Microsoft Power BI Data Analyst Professional Certificate**</a>
+* <a href="">**Zendesk Customer Service Professional Certificate**</a>
 
 ---
 
