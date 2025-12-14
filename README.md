@@ -17,7 +17,7 @@ With experience in technical support analyst and currently as a Service Advisor 
 * 🎓 **Current Education:** BS in Data Science and Applications, IIT Madras (Ongoing). 
 * 🧠 **Background:** BA in Psychology (IGNOU), providing a strong understanding of human behavior and cognitive processes.
 * 🛠️ **Current Role:** Service Advisor at Call BA - Subsidiary of British Airways, focusing on investigating fraudulent transactions, chargeback processing, and fare regulation adherence using Amadeus.
-* 💡 **Previous Role:** Senior Technical Analyst  at Ienergizer IT Services, where I enhanced user experience for a global gaming community, ensured data privacy (GDPR, CISPA, COPPA, LGPD), and contributed to financial fraud prevention.
+* 💡 **Previous Role:** Senior Technical Analyst  at Ienergizer IT Services Private Limited, where I enhanced user experience for a global gaming community, ensured data privacy (GDPR, CISPA, COPPA, LGPD), and contributed to financial fraud prevention.
 * 🎯 **Objective:** To integrate my technical acumen and psychological insights to build empathetic, user-focused, and impactful data science and AI solutions.
 
 ---
